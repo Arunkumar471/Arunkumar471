@@ -1,4 +1,9 @@
 ## Hi there 👋
+#### A Junior Devops Engineer and Azure admininstrator
+Senior Project Engineer at Wipro Technologies(https://wipro.com);<br>
+
+
+- ⚙️ I use daily: 'git`, `.tf`, `.ps`, `Jenkins`, `.yml`, `.psd`, `.ai`
 
 <!--
 **Arunkumar471/Arunkumar471** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
