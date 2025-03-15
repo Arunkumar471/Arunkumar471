@@ -1,5 +1,5 @@
 ## Hi there 👋
-#### A Junior Devops Engineer and Azure admininstrator
+#### A Devops Engineer and Azure admininstrator
 Senior Project Engineer at Wipro Technologies(https://wipro.com);<br>
 
 
